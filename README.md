@@ -1,4 +1,27 @@
-## :wave: Hello World! :earth_americas:
+## João Pedro Soares Torrel
+
+### :smile: Sobre mim 
+
+- Tenho 17 anos
+- Amo programar :purple_heart:
+
+### :book: Cursando
+
+- 2º Ano do ensino médio no IPUC - Instituto pró universidade canoense
+
+### :book: Conhecimentos
+
+- HTML
+- CSS
+- Javascript
+
+### :book: Estudando
+
+- ReactJs
+- React Native
+- NodeJs
+
+
 
 
 <!--
