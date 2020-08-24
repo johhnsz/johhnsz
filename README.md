@@ -21,6 +21,11 @@
 - React Native
 - NodeJs
 
+### :phone: Contato 
+
+- @eujoaotorrel
+- joaotorrelsz@hotmail.com
+
 
 
 
